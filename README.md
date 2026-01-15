@@ -1,4 +1,4 @@
-# Calculator (React Vite)
+# Calculator (React-Vite)
 
 ## Description
 This is a **modern, responsive calculator** built with **React 18** and **Vite**. It supports basic arithmetic operations and provides a clean, intuitive user interface that works well on both **desktop and mobile devices**.  
