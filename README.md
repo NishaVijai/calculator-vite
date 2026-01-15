@@ -1,9 +1,21 @@
-# Calculator (React-Vite)
+# CalcCraft – Build your calculations
 
 ## Description
 This is a **modern, responsive calculator** built with **React 18** and **Vite**. It supports basic arithmetic operations and provides a clean, intuitive user interface that works well on both **desktop and mobile devices**.  
 
 The project demonstrates best practices in React development, including **state management with `useReducer`**, **component-based architecture**, and **responsive CSS grid design**.
+
+---
+
+## Preview
+
+https://calccraft.netlify.app/
+
+---
+
+## Screenshots
+
+<img width="3840" height="1960" alt="Calculator" src="https://github.com/user-attachments/assets/e50a286d-33b5-41d0-bd1d-4930cc3bdf1e" />
 
 ---
 
@@ -76,12 +88,6 @@ calculator-vite/
 * Press `AC` to clear all
 * Press `DEL` to delete the last digit
 * Press `=` to evaluate the expression
-
----
-
-## Screenshots
-
-*(Add screenshots here for desktop, tablet, and mobile if desired)*
 
 ---
 
