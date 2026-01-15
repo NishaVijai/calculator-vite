@@ -1,9 +1,22 @@
-# CalcCraft – Build your calculations
+# CalcCraft – Build Your Calculations
 
 ## Description
-This is a **modern, responsive calculator** built with **React 18** and **Vite**. It supports basic arithmetic operations and provides a clean, intuitive user interface that works well on both **desktop and mobile devices**.  
+**CalcCraft** is a **modern, responsive calculator** built with **React 18** and **Vite**. It supports basic arithmetic operations and provides a clean, intuitive user interface that works seamlessly on both **desktop and mobile devices**.  
 
 The project demonstrates best practices in React development, including **state management with `useReducer`**, **component-based architecture**, and **responsive CSS grid design**.
+
+---
+
+## Table of Contents
+- [Preview](#preview)  
+- [Screenshots](#screenshots)  
+- [Features](#features)  
+- [Technologies Used](#technologies-used)  
+- [Installation](#installation)  
+- [Project Structure](#project-structure)  
+- [Usage](#usage)  
+- [Optional Enhancements](#optional-enhancements)  
+- [License](#license)  
 
 ---
 
@@ -30,10 +43,10 @@ https://calccraft.netlify.app/
 ---
 
 ## Technologies Used
-- [React 18](https://reactjs.org/) – Front-end UI library
-- [Vite](https://vitejs.dev/) – Fast development build tool
-- JavaScript / JSX – Component-based architecture
-- CSS Grid & Flexbox – Responsive layout
+- [React 18](https://reactjs.org/) – Front-end UI library  
+- [Vite](https://vitejs.dev/) – Fast development build tool  
+- JavaScript / JSX – Component-based architecture  
+- CSS Grid & Flexbox – Responsive layout  
 
 ---
 
