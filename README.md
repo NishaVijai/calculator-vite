@@ -26,7 +26,7 @@ https://calccraft.netlify.app/
 
 ---
 
-## Screenshots
+## Screenshot
 
 <img width="3840" height="1960" alt="Calculator" src="https://github.com/user-attachments/assets/e50a286d-33b5-41d0-bd1d-4930cc3bdf1e" />
 
